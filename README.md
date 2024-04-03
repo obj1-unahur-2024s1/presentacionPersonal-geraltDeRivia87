@@ -1,35 +1,39 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
+# Hugo Belascoain
+Gracias por la bienvenida, quiero agradecer antes que nada a todos y todas los que hacen posible la **universidad publica**, y mas en estos tiempos en los que se pone en duda los beneficios de la educacion gratuita.
 
-Bienvenidos a
-# Programación con objetos I
-
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Soy Hugo Belascoain tengo 37 aÃ±os, de san justo y tengo la fortuna de ser un **atributo** del **objeto familiaBelascoain**, acompaÃ±ado por los **atributos Lucas, Gabriel y mi esposa Jesica.** 
+En Muchas ocasiones he intentado estudiar pero por razones de la vida se me ha truncado la posibilidad de finalizarlos. Por esfuerzo y acompaÃ±amiento de mis seres queridos he retomado con mucha convicciÃ³n y enfocado en alcanzar mis objetivos. 
 
 ```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
+object hugo {
+
+   var felicidad = 50 
+   var energia = 100
+
+   method jugarXbox(horas){
+     felicidad = felicidad + horas
+     energia = energia - (horas * 2)
+     }
+
+   method trabajar(horas){
+     felicidad = felicidad - (horas * 2)
+     energia = energia - (horas * 3)
+     }
+
+   method cursar(horas){
+     felicidad = felicidad + (horas * 2)
+     energia = energia - (horas)
+     }
+  } 
 ```
+     
+## Mis hobbies ðŸŽ®âš½
+* Jugar videoJuegos 
+* Mirar a BOCAAAAAA.
+* Jugar al futbol con amigos. 
+* Mirar pelis en familia en casa o cine.
+* Investigar todo lo referido a avances tecnologicos y mas ahora en todo lo referido a programaciÃ³n.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión 1 **turno noche**: Martes 18 a 22hs y Sábado 10 a 12hs.
-* Horario comisión 2 **turno mañana**: Miércoles 8 a 12hs y Sábado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo González Tulian, Lucas Spigariol, Cristian Ciarallo y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Manuel Nuñez y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+# Mis expectativas
+Espero que en esta cursada pueda adquirir todos los conocimientos para crecer en la carrera y estar mas cerca de poder trabajar.
